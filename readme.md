@@ -26,6 +26,7 @@ Google AdSense is used on the following web sites:
 Google AdMob is used in the following apps and can be disabled with an in-app purchase:
 
 * **[Ivy](https://itunes.apple.com/us/app/ivy-stats-tracker/id1070965855)**
+* **[Chromie]()**
 
 ## Third-party links and content
 CookieBytes sometimes links to third-party websites for informational purposes. These have their own independent privacy policies, and CookieBytes has no responsibility or liability for their content or activities.
@@ -49,4 +50,5 @@ You can find the privacy policy on **[CookieBytes' GitHub](https://github.com/co
 
 Changes:
 
+* 2020-11-22 Updates for Chromie
 * 2019-02-24 Initial commit
