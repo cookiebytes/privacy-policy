@@ -5,7 +5,7 @@ This policy applies to all information collected or submitted on CookieBytes web
 CookieBytes itself doesn't collect or store any information besides temporary information that may be stored in web logs such as your IP address. 
 
 ### Google Usage
-CookieBytes apps and websites use Google Analytics, AdMob, and AdSense. Please review their policies here:
+CookieBytes apps and websites may use Google Analytics, AdMob, and AdSense. Please review their policies here:
 
 * **[Google Advertising](https://policies.google.com/technologies/ads)**
 * **[How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)**
@@ -25,8 +25,7 @@ Google AdSense is used on the following web sites:
 #### AdMob
 Google AdMob is used in the following apps and can be disabled with an in-app purchase:
 
-* **[Ivy](https://itunes.apple.com/us/app/ivy-stats-tracker/id1070965855)**
-* **[Chromie]()**
+* **[Chromie](https://apps.apple.com/us/app/chromie/id1447975965)**
 
 ## Third-party links and content
 CookieBytes sometimes links to third-party websites for informational purposes. These have their own independent privacy policies, and CookieBytes has no responsibility or liability for their content or activities.
@@ -41,7 +40,7 @@ Information may be processed, stored, and used outside of the country in which y
 By using these sites or apps, you consent to CookieBytes' privacy policy.
 
 ## Contacting Us
-If you have questions regarding this privacy policy, please email **[info@cookiebytes.me](mailto:cookiebytes.me)**.
+If you have questions regarding this privacy policy, please email **info at cookiebytes.me**.
 
 ## Changes to this policy
 From time to time this policy will change and update. In an attempt to be as transparent as possible with this policy it will be committed to GitHub where you can review changes to the policy.
@@ -50,5 +49,6 @@ You can find the privacy policy on **[CookieBytes' GitHub](https://github.com/co
 
 Changes:
 
+* 2021-11-01 Removed Google Ads from Ivy and a few language updates
 * 2020-11-22 Updates for Chromie
 * 2019-02-24 Initial commit
